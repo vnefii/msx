@@ -57,3 +57,10 @@
 [20:26:48] [Server thread/WARN]: lol.exe (vehicle of potato) moved wrongly! 0.7468500178719069
 [21:03:34] [Server thread/INFO]: vnefii lost connection: Disconnected
 [21:03:34] [Server thread/INFO]: vnefii left the game
+[21:22:10] [Server thread/WARN]: lol.exe (vehicle of potato) moved wrongly! 0.26246135796441195
+[21:22:10] [Server thread/WARN]: lol.exe (vehicle of potato) moved wrongly! 0.670744226706347
+[21:24:20] [Server thread/INFO]: vnefii[/127.196.113.75:55959] logged in with entity id 53382 at (708.6399076287373, 122.0, 24.345565280544413)
+[21:24:20] [Server thread/INFO]: vnefii joined the game
+[21:30:51] [Server thread/INFO]: zSappy lost connection: Timed out
+[21:30:51] [Server thread/INFO]: zSappy left the game
+[21:30:51] [Server thread/WARN]: handleDisconnection() called twice
