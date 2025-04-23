@@ -356,6 +356,8 @@
     "criteria": {
       "mutton": "2025-04-23 08:49:09 +0000",
       "bread": "2025-04-23 06:06:30 +0000",
+      "cookie": "2025-04-23 20:16:46 +0000",
+      "suspicious_stew": "2025-04-23 20:16:18 +0000",
       "cooked_mutton": "2025-04-23 06:33:24 +0000",
       "beef": "2025-04-23 07:30:21 +0000",
       "carrot": "2025-04-23 08:58:26 +0000"
@@ -2064,6 +2066,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-04-23 20:13:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-04-23 19:23:12 +0000"
@@ -2112,6 +2120,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-04-23 20:16:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-04-23 19:23:12 +0000"
@@ -2133,6 +2147,12 @@
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-04-23 19:23:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-04-23 20:13:39 +0000"
     },
     "done": true
   },
