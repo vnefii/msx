@@ -599,6 +599,7 @@
       "minecraft:piglin_brute": "2025-04-23 07:01:39 +0000",
       "minecraft:zombie": "2025-04-23 06:05:53 +0000",
       "minecraft:drowned": "2025-04-23 06:12:08 +0000",
+      "minecraft:zombie_villager": "2025-04-23 19:01:19 +0000",
       "minecraft:ghast": "2025-04-23 06:44:52 +0000"
     },
     "done": false
@@ -1637,6 +1638,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-04-23 18:51:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-04-23 18:46:36 +0000"
@@ -1661,9 +1668,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-04-23 18:51:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-04-23 18:46:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-04-23 19:01:33 +0000"
     },
     "done": true
   },
