@@ -1938,9 +1938,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/blue_dye": {
+  "minecraft:story/deflect_arrow": {
     "criteria": {
-      "has_lapis_lazuli": "2025-04-23 11:02:15 +0000"
+      "deflected_projectile": "2025-04-23 08:37:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-04-23 08:49:37 +0000"
     },
     "done": true
   },
@@ -1950,27 +1956,15 @@
     },
     "done": true
   },
-  "minecraft:story/deflect_arrow": {
+  "minecraft:recipes/redstone/dispenser": {
     "criteria": {
-      "deflected_projectile": "2025-04-23 08:37:17 +0000"
+      "has_bow": "2025-04-23 09:05:11 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
+  "minecraft:adventure/trade": {
     "criteria": {
-      "has_spider_eye": "2025-04-23 09:54:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lapis_block": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-04-23 11:02:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glass": {
-    "criteria": {
-      "has_smelts_to_glass": "2025-04-23 09:44:28 +0000"
+      "traded": "2025-04-23 09:22:04 +0000"
     },
     "done": true
   },
@@ -1980,9 +1974,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dispenser": {
+  "minecraft:recipes/building_blocks/glass": {
     "criteria": {
-      "has_bow": "2025-04-23 09:05:11 +0000"
+      "has_smelts_to_glass": "2025-04-23 09:44:28 +0000"
     },
     "done": true
   },
@@ -1992,9 +1986,15 @@
     },
     "done": true
   },
-  "minecraft:story/enchant_item": {
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
-      "enchanted_item": "2025-04-23 11:02:46 +0000"
+      "has_cornflower": "2025-04-23 09:50:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-04-23 09:54:39 +0000"
     },
     "done": true
   },
@@ -2007,12 +2007,6 @@
   "minecraft:recipes/decorations/yellow_bed": {
     "criteria": {
       "has_yellow_wool": "2025-04-23 09:57:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye_from_cornflower": {
-    "criteria": {
-      "has_cornflower": "2025-04-23 09:50:13 +0000"
     },
     "done": true
   },
@@ -2034,15 +2028,21 @@
     },
     "done": true
   },
-  "minecraft:adventure/trade": {
+  "minecraft:recipes/misc/blue_dye": {
     "criteria": {
-      "traded": "2025-04-23 09:22:04 +0000"
+      "has_lapis_lazuli": "2025-04-23 11:02:15 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_allium": {
+  "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
-      "has_allium": "2025-04-23 08:49:37 +0000"
+      "has_lapis_lazuli": "2025-04-23 11:02:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-04-23 11:02:46 +0000"
     },
     "done": true
   },
