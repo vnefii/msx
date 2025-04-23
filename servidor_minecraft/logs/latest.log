@@ -64,3 +64,6 @@
 [21:30:51] [Server thread/INFO]: zSappy lost connection: Timed out
 [21:30:51] [Server thread/INFO]: zSappy left the game
 [21:30:51] [Server thread/WARN]: handleDisconnection() called twice
+[21:48:11] [Server thread/INFO]: potato tried to swim in lava to escape Magma Cube
+[21:53:44] [Server thread/INFO]: vnefii lost connection: Disconnected
+[21:53:44] [Server thread/INFO]: vnefii left the game
