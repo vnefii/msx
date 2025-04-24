@@ -11,6 +11,7 @@
       "minecraft:forest": "2025-04-23 05:47:35 +0000",
       "minecraft:taiga": "2025-04-23 05:46:28 +0000",
       "minecraft:river": "2025-04-23 05:50:09 +0000",
+      "minecraft:stony_shore": "2025-04-24 08:12:15 +0000",
       "minecraft:dripstone_caves": "2025-04-23 09:00:56 +0000",
       "minecraft:frozen_peaks": "2025-04-23 08:55:57 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-23 08:13:20 +0000",
@@ -460,6 +461,7 @@
       "cooked_porkchop": "2025-04-23 05:51:58 +0000",
       "bread": "2025-04-23 06:38:07 +0000",
       "suspicious_stew": "2025-04-23 20:16:04 +0000",
+      "cookie": "2025-04-24 07:53:32 +0000",
       "cooked_mutton": "2025-04-23 06:11:25 +0000",
       "cooked_beef": "2025-04-23 06:31:40 +0000",
       "golden_carrot": "2025-04-23 11:21:09 +0000"
@@ -2472,6 +2474,78 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-04-23 22:35:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-24 07:56:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-04-24 08:14:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-04-24 08:14:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-04-24 08:14:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-04-24 08:24:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-04-24 08:27:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-04-24 08:24:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-04-24 08:24:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-04-24 08:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-04-24 08:24:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-04-24 08:24:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-04-24 08:24:09 +0000"
     },
     "done": true
   },
