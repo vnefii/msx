@@ -359,6 +359,7 @@
     "criteria": {
       "bread": "2025-04-23 20:16:07 +0000",
       "rotten_flesh": "2025-04-23 06:06:17 +0000",
+      "suspicious_stew": "2025-04-24 06:38:05 +0000",
       "cooked_mutton": "2025-04-23 06:13:33 +0000",
       "cooked_beef": "2025-04-23 05:57:21 +0000",
       "beef": "2025-04-23 07:16:47 +0000",
@@ -2573,6 +2574,12 @@
   "minecraft:recipes/decorations/pink_carpet": {
     "criteria": {
       "has_pink_wool": "2025-04-24 05:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-04-24 06:38:05 +0000"
     },
     "done": true
   },

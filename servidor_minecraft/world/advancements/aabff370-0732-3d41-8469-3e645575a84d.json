@@ -461,6 +461,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-04-24 06:41:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-04-24 04:58:32 +0000"
@@ -542,6 +548,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-04-24 05:46:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-04-24 06:39:46 +0000"
     },
     "done": true
   },
@@ -818,8 +830,15 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-04-24 06:38:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "suspicious_stew": "2025-04-24 06:38:05 +0000",
       "sweet_berries": "2025-04-24 04:22:29 +0000",
       "golden_carrot": "2025-04-24 04:28:14 +0000"
     },
