@@ -82,3 +82,35 @@
 [08:24:11] [Server thread/WARN]: navarrogames moved too quickly! 10.174980828718503,-1.431873660269531,0.657810882550848
 [08:24:22] [Server thread/INFO]: [Not Secure] <navarrogames> 704 2121
 [08:27:51] [Server thread/INFO]: vnefii has made the advancement [Take Aim]
+[08:29:53] [Server thread/INFO]: Shaluxe has made the advancement [Ol' Betsy]
+[08:34:33] [Server thread/INFO]: potato has made the advancement [Eye Spy]
+[08:35:24] [Server thread/INFO]: [Not Secure] <potato> 710 2121
+[08:36:51] [Server thread/INFO]: navarrogames has made the advancement [Eye Spy]
+[08:36:57] [Server thread/INFO]: Shaluxe has made the advancement [Eye Spy]
+[08:37:01] [Server thread/INFO]: potato has made the advancement [The End?]
+[08:37:03] [Server thread/INFO]: Shaluxe has made the advancement [The End?]
+[08:37:03] [Server thread/INFO]: navarrogames has made the advancement [The End?]
+[08:38:32] [Server thread/INFO]: potato has made the advancement [Take Aim]
+[08:39:23] [Server thread/INFO]: potato has made the advancement [Free the End]
+[08:40:27] [Server thread/INFO]: vnefii has reached the goal [The Next Generation]
+[08:40:43] [Server thread/INFO]: potato has made the advancement [Remote Getaway]
+[08:40:57] [Server thread/INFO]: vnefii has made the advancement [Remote Getaway]
+[08:40:58] [Server thread/INFO]: Shaluxe has made the advancement [Remote Getaway]
+[08:41:04] [Server thread/INFO]: potato has made the advancement [The City at the End of the Game]
+[08:41:21] [Server thread/INFO]: vnefii has made the advancement [The City at the End of the Game]
+[08:41:32] [Server thread/INFO]: Shaluxe has made the advancement [The City at the End of the Game]
+[08:58:33] [Server thread/INFO]: [Not Secure] <Shaluxe> 1672 -1530
+[09:05:01] [Server thread/INFO]: navarrogames has made the advancement [Enchanter]
+[09:07:51] [Server thread/INFO]: vnefii has reached the goal [Sky's the Limit]
+[09:08:49] [Server thread/INFO]: potato has reached the goal [Sky's the Limit]
+[09:09:24] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=636, y=132, z=101} jd{x=634, y=132, z=101}
+[09:09:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=626, y=133, z=102} jd{x=624, y=134, z=102}
+[09:09:38] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=626, y=133, z=102} jd{x=623, y=134, z=103}
+[09:09:47] [Server thread/INFO]: navarrogames lost connection: Timed out
+[09:09:47] [Server thread/INFO]: navarrogames left the game
+[09:09:47] [Server thread/WARN]: handleDisconnection() called twice
+[09:09:55] [Server thread/INFO]: potato has made the advancement [Local Brewery]
+[09:10:04] [Server thread/INFO]: navarrogames[/127.113.221.220:49183] logged in with entity id 47233 at (636.6849511306282, 133.1661092609382, 114.5850636428874)
+[09:10:04] [Server thread/INFO]: navarrogames joined the game
+[09:10:16] [Server thread/INFO]: potato lost connection: Disconnected
+[09:10:16] [Server thread/INFO]: potato left the game
