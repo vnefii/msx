@@ -1,116 +1,25 @@
-[07:29:20] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[07:29:22] [ServerMain/INFO]: Loaded 1290 recipes
-[07:29:22] [ServerMain/INFO]: Loaded 1399 advancements
-[07:29:23] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[07:29:23] [Server thread/INFO]: Loading properties
-[07:29:23] [Server thread/INFO]: Default game type: SURVIVAL
-[07:29:23] [Server thread/INFO]: Generating keypair
-[07:29:23] [Server thread/INFO]: Starting Minecraft server on *:25565
-[07:29:23] [Server thread/INFO]: Using epoll channel type
-[07:29:23] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[07:29:23] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[07:29:23] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[07:29:23] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[07:29:23] [Server thread/INFO]: Preparing level "world"
-[07:29:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[07:29:26] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[07:29:26] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[07:29:26] [Server thread/INFO]: Time elapsed: 662 ms
-[07:29:26] [Server thread/INFO]: Done (3.055s)! For help, type "help"
-[07:29:35] [Server thread/INFO]: trompetapetapeta[/127.235.240.228:49871] logged in with entity id 9 at (-9.5, 74.0, 2.5)
-[07:29:35] [Server thread/INFO]: trompetapetapeta joined the game
-[07:29:38] [Server thread/INFO]: navarrogames[/127.113.221.220:39263] logged in with entity id 156 at (650.8471066180216, 135.0, 174.30990558757162)
-[07:29:38] [Server thread/INFO]: navarrogames joined the game
-[07:29:50] [Server thread/INFO]: trompetapetapeta lost connection: Disconnected
-[07:29:50] [Server thread/INFO]: trompetapetapeta left the game
-[07:30:44] [Server thread/INFO]: potato[/127.235.240.228:59361] logged in with entity id 671 at (643.4073616184029, 131.9375, 173.58950024327885)
-[07:30:44] [Server thread/INFO]: potato joined the game
-[07:49:32] [Server thread/INFO]: vnefii[/127.196.113.75:50887] logged in with entity id 5210 at (619.3000000119209, 83.0, 125.69999998807907)
-[07:49:32] [Server thread/INFO]: vnefii joined the game
-[07:56:21] [Server thread/INFO]: Shaluxe[/127.248.43.211:36213] logged in with entity id 8230 at (667.0267187110849, 133.875, 167.10636750647194)
-[07:56:21] [Server thread/INFO]: Shaluxe joined the game
-[07:56:27] [Server thread/INFO]: [Not Secure] <potato> disc
-[07:56:31] [Server thread/INFO]: [Not Secure] <Shaluxe> nopuedo
-[07:56:31] [Server thread/INFO]: [Not Secure] <navarrogames> Disc
-[07:56:33] [Server thread/INFO]: [Not Secure] <navarrogames> NAAAH
-[07:56:36] [Server thread/INFO]: [Not Secure] <potato> no es pregunta
-[07:56:37] [Server thread/INFO]: [Not Secure] <navarrogames> EL ROBERTO TAMPOCO
-[07:56:39] [Server thread/INFO]: [Not Secure] <navarrogames> aqui anda
-[07:56:58] [Server thread/INFO]: [Not Secure] <Shaluxe> gawd damn
-[07:57:29] [Server thread/INFO]: [Not Secure] <Shaluxe> que pedo con la casa del Diego
-[07:57:33] [Server thread/INFO]: [Not Secure] <Shaluxe> pinche tutorial se vio
-[07:57:36] [Server thread/INFO]: [Not Secure] <navarrogames> XD
-[07:57:38] [Server thread/INFO]: [Not Secure] <Shaluxe> a mi no me hace pendejo
-[07:57:59] [Server thread/INFO]: [Not Secure] <navarrogames> io no se
-[07:58:10] [Server thread/INFO]: [Not Secure] <Shaluxe> que verga
-[07:58:11] [Server thread/INFO]: [Not Secure] <Shaluxe> full diamante
-[07:58:13] [Server thread/INFO]: [Not Secure] <Shaluxe> lol
-[07:58:18] [Server thread/INFO]: [Not Secure] <navarrogames> si pues los aldeanos pa
-[07:58:32] [Server thread/INFO]: [Not Secure] <navarrogames> el reyel se chingo los diamantes para hacer mas aldeanos en vez de hacer las armaduras
-[07:58:33] [Server thread/INFO]: [Not Secure] <navarrogames> xd
-[07:58:41] [Server thread/INFO]: [Not Secure] <Shaluxe> que verga quieres
-[07:58:42] [Server thread/INFO]: [Not Secure] <Shaluxe> esperate
-[07:59:51] [Server thread/INFO]: [Not Secure] <navarrogames> unete discord
-[08:00:16] [Server thread/INFO]: [Not Secure] <Shaluxe> a ver ps
-[08:00:19] [Server thread/INFO]: [Not Secure] <Shaluxe> pero no hablaré mucho
-[08:00:29] [Server thread/INFO]: [Not Secure] <navarrogames> ok
-[08:00:29] [Server thread/INFO]: [Not Secure] <vnefii> vamos a cogernos a la dragona
-[08:00:35] [Server thread/INFO]: [Not Secure] <navarrogames> ?
-[08:00:37] [Server thread/INFO]: [Not Secure] <navarrogames> seeeh
-[08:02:10] [Server thread/INFO]: vnefii lost connection: Disconnected
-[08:02:10] [Server thread/INFO]: vnefii left the game
-[08:02:18] [Server thread/INFO]: zSappy[/127.196.113.75:40223] logged in with entity id 10081 at (639.076762611253, 130.0, 129.83271121739)
-[08:02:18] [Server thread/INFO]: zSappy joined the game
-[08:03:22] [Server thread/INFO]: zSappy lost connection: Disconnected
-[08:03:22] [Server thread/INFO]: zSappy left the game
-[08:03:28] [Server thread/INFO]: vnefii[/127.196.113.75:47783] logged in with entity id 10594 at (644.482871999218, 66.0, 281.65036336612457)
-[08:03:28] [Server thread/INFO]: vnefii joined the game
-[08:15:56] [Server thread/INFO]: [Not Secure] <vnefii> 704 2121
-[08:16:02] [Server thread/INFO]: vnefii lost connection: Disconnected
-[08:16:02] [Server thread/INFO]: vnefii left the game
-[08:16:36] [Server thread/INFO]: vnefii[/127.196.113.75:35557] logged in with entity id 19168 at (703.9214173939095, -22.5, 2121.771356126845)
-[08:16:36] [Server thread/INFO]: vnefii joined the game
-[08:16:43] [Server thread/INFO]: vnefii lost connection: Disconnected
-[08:16:43] [Server thread/INFO]: vnefii left the game
-[08:21:53] [Server thread/INFO]: Shaluxe has made the advancement [Enchanter]
-[08:23:23] [Server thread/INFO]: vnefii[/127.196.113.75:54301] logged in with entity id 21125 at (703.9214173939095, -22.5, 2121.771356126845)
-[08:23:23] [Server thread/INFO]: vnefii joined the game
-[08:24:09] [Server thread/INFO]: vnefii has made the advancement [The End?]
-[08:24:11] [Server thread/INFO]: Scanning for legacy world dragon fight...
-[08:24:11] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
-[08:24:11] [Server thread/WARN]: potato moved too quickly! 7.198619327664574,7.001335979112156,-0.41766020830471007
-[08:24:11] [Server thread/WARN]: navarrogames moved too quickly! 10.174980828718503,-1.431873660269531,0.657810882550848
-[08:24:22] [Server thread/INFO]: [Not Secure] <navarrogames> 704 2121
-[08:27:51] [Server thread/INFO]: vnefii has made the advancement [Take Aim]
-[08:29:53] [Server thread/INFO]: Shaluxe has made the advancement [Ol' Betsy]
-[08:34:33] [Server thread/INFO]: potato has made the advancement [Eye Spy]
-[08:35:24] [Server thread/INFO]: [Not Secure] <potato> 710 2121
-[08:36:51] [Server thread/INFO]: navarrogames has made the advancement [Eye Spy]
-[08:36:57] [Server thread/INFO]: Shaluxe has made the advancement [Eye Spy]
-[08:37:01] [Server thread/INFO]: potato has made the advancement [The End?]
-[08:37:03] [Server thread/INFO]: Shaluxe has made the advancement [The End?]
-[08:37:03] [Server thread/INFO]: navarrogames has made the advancement [The End?]
-[08:38:32] [Server thread/INFO]: potato has made the advancement [Take Aim]
-[08:39:23] [Server thread/INFO]: potato has made the advancement [Free the End]
-[08:40:27] [Server thread/INFO]: vnefii has reached the goal [The Next Generation]
-[08:40:43] [Server thread/INFO]: potato has made the advancement [Remote Getaway]
-[08:40:57] [Server thread/INFO]: vnefii has made the advancement [Remote Getaway]
-[08:40:58] [Server thread/INFO]: Shaluxe has made the advancement [Remote Getaway]
-[08:41:04] [Server thread/INFO]: potato has made the advancement [The City at the End of the Game]
-[08:41:21] [Server thread/INFO]: vnefii has made the advancement [The City at the End of the Game]
-[08:41:32] [Server thread/INFO]: Shaluxe has made the advancement [The City at the End of the Game]
-[08:58:33] [Server thread/INFO]: [Not Secure] <Shaluxe> 1672 -1530
-[09:05:01] [Server thread/INFO]: navarrogames has made the advancement [Enchanter]
-[09:07:51] [Server thread/INFO]: vnefii has reached the goal [Sky's the Limit]
-[09:08:49] [Server thread/INFO]: potato has reached the goal [Sky's the Limit]
-[09:09:24] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=636, y=132, z=101} jd{x=634, y=132, z=101}
-[09:09:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=626, y=133, z=102} jd{x=624, y=134, z=102}
-[09:09:38] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=626, y=133, z=102} jd{x=623, y=134, z=103}
-[09:09:47] [Server thread/INFO]: navarrogames lost connection: Timed out
-[09:09:47] [Server thread/INFO]: navarrogames left the game
-[09:09:47] [Server thread/WARN]: handleDisconnection() called twice
-[09:09:55] [Server thread/INFO]: potato has made the advancement [Local Brewery]
-[09:10:04] [Server thread/INFO]: navarrogames[/127.113.221.220:49183] logged in with entity id 47233 at (636.6849511306282, 133.1661092609382, 114.5850636428874)
-[09:10:04] [Server thread/INFO]: navarrogames joined the game
-[09:10:16] [Server thread/INFO]: potato lost connection: Disconnected
-[09:10:16] [Server thread/INFO]: potato left the game
+[09:22:23] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[09:22:25] [ServerMain/INFO]: Loaded 1290 recipes
+[09:22:25] [ServerMain/INFO]: Loaded 1399 advancements
+[09:22:25] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[09:22:25] [Server thread/INFO]: Loading properties
+[09:22:25] [Server thread/INFO]: Default game type: SURVIVAL
+[09:22:25] [Server thread/INFO]: Generating keypair
+[09:22:25] [Server thread/INFO]: Starting Minecraft server on *:25565
+[09:22:25] [Server thread/INFO]: Using epoll channel type
+[09:22:26] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[09:22:26] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[09:22:26] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[09:22:26] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[09:22:26] [Server thread/INFO]: Preparing level "world"
+[09:22:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[09:22:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[09:22:28] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[09:22:29] [Server thread/INFO]: Time elapsed: 615 ms
+[09:22:29] [Server thread/INFO]: Done (3.025s)! For help, type "help"
+[09:22:35] [Server thread/INFO]: potato[/127.235.240.228:39215] logged in with entity id 9 at (-2187.340428737688, 151.76636799395752, -1683.6732810300346)
+[09:22:35] [Server thread/INFO]: potato joined the game
+[09:23:16] [Server thread/INFO]: vnefii[/127.196.113.75:54929] logged in with entity id 139 at (1932.811306070773, 101.0, -3809.6392178636565)
+[09:23:16] [Server thread/INFO]: vnefii joined the game
+[09:30:43] [Server thread/INFO]: potato lost connection: Disconnected
+[09:30:43] [Server thread/INFO]: potato left the game
