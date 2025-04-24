@@ -1,127 +1,27 @@
-[00:14:24] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:14:27] [ServerMain/INFO]: Loaded 1290 recipes
-[00:14:27] [ServerMain/INFO]: Loaded 1399 advancements
-[00:14:28] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[00:14:28] [Server thread/INFO]: Loading properties
-[00:14:28] [Server thread/INFO]: Default game type: SURVIVAL
-[00:14:28] [Server thread/INFO]: Generating keypair
-[00:14:28] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:14:28] [Server thread/INFO]: Using epoll channel type
-[00:14:28] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:14:28] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:14:28] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:14:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:14:28] [Server thread/INFO]: Preparing level "world"
-[00:14:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:14:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:14:32] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[00:14:32] [Server thread/INFO]: Time elapsed: 740 ms
-[00:14:32] [Server thread/INFO]: Done (4.105s)! For help, type "help"
-[00:14:41] [Server thread/INFO]: zSappy[/127.36.21.240:41227] logged in with entity id 9 at (643.0726296938478, 130.0, 134.1401366122524)
-[00:14:41] [Server thread/INFO]: zSappy joined the game
-[03:13:45] [Server thread/INFO]: potato[/127.235.240.228:50427] logged in with entity id 35721 at (616.7193223854126, 121.0, 170.09230138220423)
-[03:13:45] [Server thread/INFO]: potato joined the game
-[03:14:55] [Server thread/INFO]: [Not Secure] <zSappy> ey reyel
-[03:14:58] [Server thread/INFO]: [Not Secure] <zSappy> que pedo
-[03:15:03] [Server thread/INFO]: [Not Secure] <zSappy> pihsi putita
-[03:15:04] [Server thread/INFO]: [Not Secure] <potato> disc
-[03:15:05] [Server thread/INFO]: [Not Secure] <zSappy> ds
-[03:22:10] [Server thread/WARN]: lol.exe (vehicle of potato) moved wrongly! 0.46534496328860087
-[03:22:10] [Server thread/WARN]: lol.exe (vehicle of potato) moved wrongly! 0.9856942683774719
-[03:22:10] [Server thread/WARN]: lol.exe (vehicle of potato) moved wrongly! 0.506025302421051
-[03:54:54] [Server thread/INFO]: Villager cmk['Toolsmith'/57, l='ServerLevel[world]', x=676.31, y=132.00, z=173.69] died, message: 'Toolsmith was slain by Zombie'
-[04:21:39] [Server thread/INFO]: navarrogames[/127.113.221.220:56685] logged in with entity id 64481 at (5.5, 68.0, 8.5)
-[04:21:39] [Server thread/INFO]: navarrogames joined the game
-[04:21:50] [Server thread/INFO]: [Not Secure] <navarrogames> me voy a morir por pinche hambre
-[04:26:38] [Server thread/INFO]: [Not Secure] <navarrogames> 645 175
-[04:30:50] [Server thread/INFO]: navarrogames has made the advancement [Sweet Dreams]
-[04:30:54] [Server thread/INFO]: [Not Secure] <navarrogames> AAAAAAAAAAAAAAAH
-[04:30:57] [Server thread/INFO]: [Not Secure] <navarrogames> aaaaaaaaaa
-[04:30:59] [Server thread/INFO]: [Not Secure] <navarrogames> aaaaaa
-[04:30:59] [Server thread/INFO]: [Not Secure] <navarrogames> a
-[04:30:59] [Server thread/INFO]: [Not Secure] <navarrogames> a
-[04:30:59] [Server thread/INFO]: [Not Secure] <navarrogames> a
-[04:30:59] [Server thread/INFO]: [Not Secure] <navarrogames> a
-[04:31:00] [Server thread/INFO]: [Not Secure] <navarrogames> a
-[04:31:00] [Server thread/INFO]: [Not Secure] <navarrogames> a
-[04:31:00] [Server thread/INFO]: [Not Secure] <navarrogames> a
-[04:31:00] [Server thread/INFO]: [Not Secure] <navarrogames> a
-[04:31:00] [Server thread/INFO]: [Not Secure] <navarrogames> a
-[04:31:00] [Server thread/INFO]: [Not Secure] <navarrogames> a
-[04:31:47] [Server thread/INFO]: [Not Secure] <navarrogames> THE NETHER
-[04:31:51] [Server thread/INFO]: [Not Secure] <navarrogames> ?
-[04:33:33] [Server thread/INFO]: navarrogames has made the advancement [Monster Hunter]
-[04:34:24] [Server thread/INFO]: navarrogames has made the advancement [Suit Up]
-[04:36:10] [Server thread/INFO]: navarrogames has made the advancement [We Need to Go Deeper]
-[04:36:15] [Server thread/INFO]: navarrogames tried to swim in lava
-[04:37:02] [Server thread/INFO]: zSappy has made the advancement [Hot Stuff]
-[04:37:06] [Server thread/INFO]: [Not Secure] <navarrogames> soy ese
-[04:38:04] [Server thread/INFO]: [Not Secure] <navarrogames> hasta que vi la rule no sabia osea siempre supe
-[04:39:40] [Server thread/INFO]: navarrogames was slain by potato
-[04:47:03] [Server thread/INFO]: [Not Secure] <navarrogames> yo soy de la calle pa
-[04:47:14] [Server thread/INFO]: [Not Secure] <navarrogames> pero duermase
-[04:47:17] [Server thread/INFO]: [Not Secure] <navarrogames> pero duerman
-[04:47:19] [Server thread/INFO]: [Not Secure] <navarrogames> pero zzzz
-[04:47:22] [Server thread/INFO]: [Not Secure] <navarrogames> pero duerman
-[04:47:45] [Server thread/INFO]: [Not Secure] <navarrogames> PORFAVOR PORFAVOOOOOOOOOR DUERMAAAAAN AAAAH PORFAVOR DUERMAAAAN DUERMAMAN
-[04:49:27] [Server thread/INFO]: potato has made the advancement [Enchanter]
-[04:59:02] [Server thread/INFO]: navarrogames has made the advancement [What a Deal!]
-[05:05:43] [Server thread/INFO]: navarrogames has made the advancement [Acquire Hardware]
-[05:11:08] [Server thread/INFO]: [Not Secure] <zSappy> zz
-[05:11:09] [Server thread/INFO]: [Not Secure] <zSappy> zzzzz
-[05:11:09] [Server thread/INFO]: [Not Secure] <zSappy> zz
-[05:11:09] [Server thread/INFO]: [Not Secure] <zSappy> z
-[05:11:10] [Server thread/INFO]: [Not Secure] <zSappy> zz
-[05:11:10] [Server thread/INFO]: [Not Secure] <zSappy> zzzz
-[05:15:20] [Server thread/INFO]: navarrogames has made the advancement [Diamonds!]
-[05:15:30] [Server thread/INFO]: Crisby2007[/127.111.150.77:59389] logged in with entity id 81341 at (273.30000001192093, 27.0, 133.49070875070151)
-[05:15:30] [Server thread/INFO]: Crisby2007 joined the game
-[05:15:37] [Server thread/INFO]: [Not Secure] <navarrogames> ESE PENDEJO QUE
-[05:15:39] [Server thread/INFO]: [Not Secure] <navarrogames> hola
-[05:15:53] [Server thread/INFO]: [Not Secure] <Crisby2007> NAVARROGAMES
-[05:15:54] [Server thread/INFO]: [Not Secure] <potato> disc crys
-[05:16:15] [Server thread/INFO]: [Not Secure] <Crisby2007> void void
-[05:16:20] [Server thread/INFO]: [Not Secure] <Crisby2007> denme 10
-[05:16:28] [Server thread/INFO]: [Not Secure] <navarrogames> as a child I yearned for the mines
-[05:18:17] [Server thread/INFO]: [Not Secure] <navarrogames> albion onlie
-[05:18:40] [Server thread/INFO]: [Not Secure] <navarrogames> porque tenemos tanto lag yo y el cris
-[05:19:16] [Server thread/INFO]: [Not Secure] <navarrogames> donde estas reyerindo
-[05:19:21] [Server thread/INFO]: [Not Secure] <Crisby2007> por que nos tiene nerfeados
-[05:19:21] [Server thread/INFO]: [Not Secure] <navarrogames> cris unete discord
-[05:19:29] [Server thread/INFO]: [Not Secure] <navarrogames> demasiado op para el server dice
-[05:19:33] [Server thread/INFO]: [Not Secure] <navarrogames> subzero on top
-[05:20:02] [Server thread/INFO]: [Not Secure] <potato> 240 135 620
-[05:22:56] [Server thread/INFO]: [Not Secure] <navarrogames> ah ya
-[05:23:08] [Server thread/INFO]: zSappy lost connection: Disconnected
-[05:23:08] [Server thread/INFO]: zSappy left the game
-[05:23:30] [Server thread/INFO]: vnefii[/127.196.113.75:51273] logged in with entity id 86815 at (649.3000000119209, 127.0, 45.69999998807907)
-[05:23:30] [Server thread/INFO]: vnefii joined the game
-[05:24:46] [Server thread/INFO]: [Not Secure] <navarrogames> CRIS
-[05:40:50] [Server thread/INFO]: [Not Secure] <Crisby2007> niiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiaggggggggggggggggggggggggggggggggggagggaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-[05:46:05] [Server thread/INFO]: navarrogames has made the advancement [Stone Age]
-[05:51:35] [Server thread/INFO]: vnefii fell from a high place
-[05:51:37] [Server thread/INFO]: navarrogames has made the advancement [Hot Stuff]
-[05:51:37] [Server thread/INFO]: navarrogames has made the advancement [Ice Bucket Challenge]
-[05:51:39] [Server thread/INFO]: vnefii lost connection: Disconnected
-[05:51:39] [Server thread/INFO]: vnefii left the game
-[05:51:49] [Server thread/INFO]: navarrogames has made the advancement [Cover Me with Diamonds]
-[06:04:00] [Server thread/WARN]: Crisby2007 moved too quickly! -10.025307016157171,0.7358406727282727,-0.9706217923051099
-[06:12:14] [Server thread/INFO]: Villager cmk['Fletcher'/46, l='ServerLevel[world]', x=659.53, y=132.00, z=146.97] died, message: 'Fletcher was slain by potato'
-[06:25:00] [Server thread/INFO]: [Not Secure] <navarrogames> DXDXDXDXDXD
-[06:45:47] [Server thread/INFO]: Crisby2007 has made the advancement [Diamonds!]
-[06:51:54] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=677, y=127, z=129} jd{x=677, y=126, z=130}
-[06:51:54] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=677, y=127, z=129} jd{x=677, y=126, z=130}
-[06:52:25] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=689, y=126, z=126} jd{x=690, y=126, z=127}
-[06:52:35] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=698, y=129, z=110} jd{x=697, y=128, z=109}
-[06:52:41] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=701, y=127, z=119} jd{x=700, y=125, z=120}
-[06:56:13] [Server thread/INFO]: Crisby2007 has made the advancement [The Cutest Predator]
-[06:56:18] [Server thread/INFO]: [Not Secure] <navarrogames> ??????????????
-[06:57:30] [Server thread/INFO]: [Not Secure] <navarrogames> AJOLOTE
-[06:57:34] [Server thread/INFO]: [Not Secure] <navarrogames> NO AXOLOTL
-[06:57:41] [Server thread/INFO]: [Not Secure] <navarrogames> AXOLOTE
-[06:57:42] [Server thread/INFO]: Crisby2007 lost connection: Disconnected
-[06:57:42] [Server thread/INFO]: Crisby2007 left the game
-[07:04:01] [Server thread/INFO]: potato lost connection: Disconnected
-[07:04:01] [Server thread/INFO]: potato left the game
-[07:04:02] [Server thread/INFO]: navarrogames lost connection: Disconnected
-[07:04:02] [Server thread/INFO]: navarrogames left the game
+[07:29:20] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[07:29:22] [ServerMain/INFO]: Loaded 1290 recipes
+[07:29:22] [ServerMain/INFO]: Loaded 1399 advancements
+[07:29:23] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[07:29:23] [Server thread/INFO]: Loading properties
+[07:29:23] [Server thread/INFO]: Default game type: SURVIVAL
+[07:29:23] [Server thread/INFO]: Generating keypair
+[07:29:23] [Server thread/INFO]: Starting Minecraft server on *:25565
+[07:29:23] [Server thread/INFO]: Using epoll channel type
+[07:29:23] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[07:29:23] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[07:29:23] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[07:29:23] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[07:29:23] [Server thread/INFO]: Preparing level "world"
+[07:29:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[07:29:26] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:29:26] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[07:29:26] [Server thread/INFO]: Time elapsed: 662 ms
+[07:29:26] [Server thread/INFO]: Done (3.055s)! For help, type "help"
+[07:29:35] [Server thread/INFO]: trompetapetapeta[/127.235.240.228:49871] logged in with entity id 9 at (-9.5, 74.0, 2.5)
+[07:29:35] [Server thread/INFO]: trompetapetapeta joined the game
+[07:29:38] [Server thread/INFO]: navarrogames[/127.113.221.220:39263] logged in with entity id 156 at (650.8471066180216, 135.0, 174.30990558757162)
+[07:29:38] [Server thread/INFO]: navarrogames joined the game
+[07:29:50] [Server thread/INFO]: trompetapetapeta lost connection: Disconnected
+[07:29:50] [Server thread/INFO]: trompetapetapeta left the game
+[07:30:44] [Server thread/INFO]: potato[/127.235.240.228:59361] logged in with entity id 671 at (643.4073616184029, 131.9375, 173.58950024327885)
+[07:30:44] [Server thread/INFO]: potato joined the game
