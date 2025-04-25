@@ -829,6 +829,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-04-25 05:03:27 +0000",
       "minecraft:skeleton": "2025-04-23 06:23:18 +0000",
       "minecraft:silverfish": "2025-04-23 06:37:15 +0000",
       "minecraft:enderman": "2025-04-23 20:35:28 +0000",
@@ -2887,6 +2888,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-04-25 04:49:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-04-25 05:03:27 +0000"
     },
     "done": true
   },
