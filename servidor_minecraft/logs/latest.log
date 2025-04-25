@@ -5,3 +5,28 @@
 [00:05:16] [Server thread/INFO]: potato left the game
 [00:06:02] [Server thread/INFO]: potato[/127.235.240.228:45659] logged in with entity id 318 at (657.0563602149936, 147.0, 153.69999998807907)
 [00:06:02] [Server thread/INFO]: potato joined the game
+[00:21:19] [Server thread/INFO]: potato lost connection: Disconnected
+[00:21:19] [Server thread/INFO]: potato left the game
+[00:21:22] [Server thread/INFO]: potato[/127.235.240.228:58269] logged in with entity id 2948 at (628.1395039170519, 130.9375, 176.21726409586486)
+[00:21:22] [Server thread/INFO]: potato joined the game
+[00:22:49] [Server thread/INFO]: [Not Secure] <potato> 70 65 20
+[00:23:51] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=28, y=31, z=-28} jd{x=28, y=31, z=-29}
+[00:23:51] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=28, y=31, z=-28} jd{x=28, y=31, z=-29}
+[00:23:51] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=28, y=31, z=-28} jd{x=28, y=31, z=-29}
+[00:23:53] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=28, y=29, z=-30} jd{x=28, y=29, z=-31}
+[00:23:53] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=28, y=29, z=-30} jd{x=28, y=29, z=-31}
+[00:23:53] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=28, y=29, z=-30} jd{x=28, y=29, z=-31}
+[00:24:49] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=30, y=16, z=-49} jd{x=29, y=16, z=-70}
+[00:24:49] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=30, y=16, z=-49} jd{x=29, y=16, z=-69}
+[00:25:58] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=15, y=15, z=-44} jd{x=20, y=16, z=-45}
+[00:25:58] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=15, y=15, z=-44} jd{x=20, y=16, z=-45}
+[00:25:58] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=15, y=15, z=-44} jd{x=20, y=16, z=-45}
+[00:25:58] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=15, y=15, z=-44} jd{x=20, y=16, z=-45}
+[00:25:58] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=15, y=15, z=-44} jd{x=20, y=16, z=-45}
+[00:25:58] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=15, y=15, z=-44} jd{x=20, y=16, z=-45}
+[00:25:58] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=15, y=15, z=-44} jd{x=20, y=16, z=-45}
+[00:25:58] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=15, y=15, z=-44} jd{x=20, y=16, z=-45}
+[00:25:58] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=15, y=15, z=-44} jd{x=20, y=16, z=-45}
+[00:25:58] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=15, y=15, z=-44} jd{x=20, y=16, z=-45}
+[00:25:58] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=15, y=15, z=-44} jd{x=20, y=16, z=-45}
+[00:28:23] [Server thread/INFO]: potato has made the advancement [Hidden in the Depths]
