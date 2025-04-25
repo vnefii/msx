@@ -40,3 +40,10 @@
 [02:07:57] [Server thread/INFO]: [Not Secure] <zSappy> DONDE ESTA EL ROBERTO O DONDE ESTABA?
 [02:10:13] [Server thread/INFO]: vnefii lost connection: Disconnected
 [02:10:13] [Server thread/INFO]: vnefii left the game
+[02:21:49] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=703, y=128, z=158} jd{x=703, y=126, z=157}
+[02:21:49] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=699, y=127, z=156} jd{x=700, y=126, z=154}
+[02:21:49] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=699, y=127, z=156} jd{x=700, y=126, z=154}
+[02:21:52] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=703, y=128, z=145} jd{x=704, y=128, z=146}
+[02:22:00] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=710, y=126, z=131} jd{x=712, y=127, z=131}
+[02:22:09] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=681, y=129, z=98} jd{x=683, y=127, z=96}
+[02:22:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=687, y=128, z=88} jd{x=687, y=126, z=85}
