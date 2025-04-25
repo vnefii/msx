@@ -835,7 +835,8 @@
       "minecraft:enderman": "2025-04-23 20:35:28 +0000",
       "minecraft:spider": "2025-04-23 08:52:04 +0000",
       "minecraft:zombie": "2025-04-23 06:47:03 +0000",
-      "minecraft:creeper": "2025-04-23 06:47:25 +0000"
+      "minecraft:creeper": "2025-04-23 06:47:25 +0000",
+      "minecraft:ravager": "2025-04-25 05:34:32 +0000"
     },
     "done": false
   },
@@ -2819,11 +2820,11 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stone_brick_wall": {
+  "minecraft:husbandry/whole_pack": {
     "criteria": {
-      "has_stone_bricks": "2025-04-25 04:49:01 +0000"
+      "minecraft:woods": "2025-04-25 03:46:55 +0000"
     },
-    "done": true
+    "done": false
   },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
@@ -2831,11 +2832,23 @@
     },
     "done": true
   },
-  "minecraft:husbandry/whole_pack": {
+  "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
-      "minecraft:woods": "2025-04-25 03:46:55 +0000"
+      "has_potato": "2025-04-25 04:20:49 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-04-25 04:20:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-25 04:49:01 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
@@ -2861,18 +2874,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_potato": "2025-04-25 04:20:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato": {
-    "criteria": {
-      "has_potato": "2025-04-25 04:20:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2025-04-25 04:49:01 +0000"
@@ -2891,15 +2892,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-04-25 04:49:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-04-25 05:03:27 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+  "minecraft:adventure/shoot_arrow": {
     "criteria": {
-      "has_stone_bricks": "2025-04-25 04:49:01 +0000"
+      "shot_arrow": "2025-04-25 05:31:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-04-25 05:36:02 +0000"
     },
     "done": true
   },
