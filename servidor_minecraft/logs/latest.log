@@ -216,3 +216,9 @@
 [06:41:37] [Server thread/WARN]: Shaluxe moved too quickly! -9.79326980580504,1.8476648131494358,1.3899289997971067
 [06:43:41] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=722, y=129, z=118} jd{x=726, y=123, z=139}
 [06:44:36] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=722, y=129, z=118} jd{x=721, y=125, z=137}
+[06:47:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=714, y=129, z=164} jd{x=713, y=125, z=147}
+[06:47:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=714, y=129, z=164} jd{x=714, y=125, z=141}
+[06:49:12] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=732, y=124, z=107} jd{x=735, y=125, z=116}
+[06:52:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=734, y=125, z=159} jd{x=731, y=125, z=146}
+[06:52:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=734, y=125, z=159} jd{x=727, y=125, z=110}
+[06:52:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=734, y=125, z=159} jd{x=729, y=125, z=113}
