@@ -636,6 +636,7 @@
       "minecraft:zombie": "2025-04-23 06:05:53 +0000",
       "minecraft:creeper": "2025-04-23 19:16:32 +0000",
       "minecraft:drowned": "2025-04-23 06:12:08 +0000",
+      "minecraft:wither": "2025-04-25 07:20:01 +0000",
       "minecraft:zombie_villager": "2025-04-23 19:01:19 +0000",
       "minecraft:evoker": "2025-04-25 03:55:31 +0000"
     },
@@ -3390,6 +3391,36 @@
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2025-04-25 06:04:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2025-04-25 07:23:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-04-25 07:22:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2025-04-25 07:23:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-04-25 07:19:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-04-25 07:20:02 +0000"
     },
     "done": true
   },
