@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-04-25 03:56:32 +0000",
       "minecraft:forest": "2025-04-23 06:04:16 +0000",
       "minecraft:taiga": "2025-04-23 06:04:11 +0000",
       "minecraft:river": "2025-04-23 06:11:19 +0000",
@@ -444,7 +445,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-04-23 06:12:33 +0000",
       "minecraft:spider": "2025-04-24 06:51:39 +0000",
-      "minecraft:zombie": "2025-04-23 06:20:41 +0000"
+      "minecraft:zombie": "2025-04-23 06:20:41 +0000",
+      "minecraft:creeper": "2025-04-25 03:30:35 +0000"
     },
     "done": false
   },
@@ -1339,6 +1341,18 @@
   "minecraft:husbandry/axolotl_in_a_bucket": {
     "criteria": {
       "axolotl_bucket": "2025-04-24 06:56:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-04-25 03:30:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-04-25 03:30:37 +0000"
     },
     "done": true
   },
