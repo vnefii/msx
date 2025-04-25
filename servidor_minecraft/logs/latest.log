@@ -238,3 +238,38 @@
 [07:23:02] [Server thread/INFO]: zSappy has made the advancement [Bring Home the Beacon]
 [07:23:02] [Server thread/INFO]: potato has reached the goal [Beaconator]
 [07:23:02] [Server thread/INFO]: potato has made the advancement [Bring Home the Beacon]
+[07:26:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=784, y=130, z=140} jd{x=789, y=130, z=113}
+[07:27:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=762, y=127, z=109} jd{x=775, y=130, z=121}
+[07:27:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=762, y=127, z=109} jd{x=777, y=130, z=119}
+[07:30:46] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=749, y=126, z=176} jd{x=749, y=126, z=177}
+[07:30:46] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=750, y=126, z=178} jd{x=749, y=126, z=177}
+[07:30:46] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=750, y=126, z=178} jd{x=749, y=126, z=177}
+[07:30:46] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=750, y=126, z=178} jd{x=749, y=126, z=177}
+[07:30:46] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=750, y=126, z=178} jd{x=749, y=126, z=177}
+[07:30:46] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=750, y=126, z=178} jd{x=749, y=126, z=177}
+[07:30:46] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=750, y=126, z=178} jd{x=749, y=126, z=177}
+[07:30:46] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=750, y=126, z=178} jd{x=749, y=126, z=177}
+[07:30:46] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=750, y=126, z=178} jd{x=749, y=126, z=177}
+[07:31:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=778, y=125, z=171} jd{x=777, y=125, z=169}
+[07:32:39] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=765, y=130, z=139} jd{x=769, y=129, z=140}
+[07:32:40] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=765, y=130, z=139} jd{x=769, y=129, z=140}
+[07:37:05] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=789, y=128, z=140} jd{x=789, y=127, z=140}
+[07:37:05] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=789, y=128, z=140} jd{x=789, y=127, z=140}
+[07:37:05] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=789, y=128, z=140} jd{x=789, y=127, z=140}
+[07:39:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=771, y=117, z=147} jd{x=771, y=120, z=147}
+[07:40:11] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=760, y=117, z=151} jd{x=761, y=117, z=150}
+[07:40:14] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=758, y=117, z=150} jd{x=757, y=116, z=149}
+[07:41:29] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=765, y=126, z=152} jd{x=757, y=125, z=150}
+[07:41:29] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=765, y=126, z=152} jd{x=757, y=125, z=150}
+[07:41:29] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=765, y=126, z=152} jd{x=757, y=125, z=150}
+[07:41:29] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=765, y=126, z=152} jd{x=757, y=125, z=150}
+[07:41:37] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=759, y=124, z=150} jd{x=750, y=125, z=146}
+[07:43:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=764, y=124, z=176} jd{x=753, y=124, z=150}
+[07:43:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=764, y=124, z=176} jd{x=753, y=124, z=150}
+[07:43:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=764, y=124, z=176} jd{x=753, y=124, z=150}
+[07:43:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=764, y=124, z=176} jd{x=753, y=124, z=150}
+[07:43:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=764, y=124, z=176} jd{x=753, y=124, z=150}
+[07:43:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=764, y=124, z=176} jd{x=753, y=124, z=150}
+[07:44:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=750, y=124, z=148} jd{x=754, y=127, z=142}
+[07:44:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=750, y=124, z=148} jd{x=754, y=127, z=142}
+[07:45:52] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=730, y=124, z=157} jd{x=733, y=127, z=166}
