@@ -289,3 +289,8 @@
 [08:14:02] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=742, y=124, z=116} jd{x=748, y=131, z=115}
 [08:14:46] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=742, y=124, z=116} jd{x=747, y=133, z=117}
 [08:16:19] [Server thread/WARN]: Shaluxe moved wrongly!
+[08:21:44] [Server thread/INFO]: potato lost connection: Disconnected
+[08:21:44] [Server thread/INFO]: potato left the game
+[08:21:49] [Server thread/INFO]: potato[/127.235.240.228:49245] logged in with entity id 231781 at (629.6935704108333, 129.0, 132.86175385697345)
+[08:21:49] [Server thread/INFO]: potato joined the game
+[08:26:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=615, y=121, z=173} jd{x=721, y=136, z=111}
