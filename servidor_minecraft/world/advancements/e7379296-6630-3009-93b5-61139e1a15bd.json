@@ -2949,12 +2949,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/emerald": {
-    "criteria": {
-      "has_emerald_block": "2025-04-24 21:19:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2025-04-24 21:17:27 +0000"
@@ -2964,6 +2958,12 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-04-24 21:17:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-04-24 21:19:36 +0000"
     },
     "done": true
   },
