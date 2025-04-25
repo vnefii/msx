@@ -1,98 +1,28 @@
-[00:05:07] [Server thread/INFO]: potato[/127.235.240.228:35719] logged in with entity id 8 at (657.0563602149936, 147.0, 153.69999998807907)
-[00:05:07] [Server thread/INFO]: potato joined the game
-[00:05:16] [Server thread/WARN]: potato was kicked for floating too long!
-[00:05:16] [Server thread/INFO]: potato lost connection: Flying is not enabled on this server
-[00:05:16] [Server thread/INFO]: potato left the game
-[00:06:02] [Server thread/INFO]: potato[/127.235.240.228:45659] logged in with entity id 318 at (657.0563602149936, 147.0, 153.69999998807907)
-[00:06:02] [Server thread/INFO]: potato joined the game
-[00:21:19] [Server thread/INFO]: potato lost connection: Disconnected
-[00:21:19] [Server thread/INFO]: potato left the game
-[00:21:22] [Server thread/INFO]: potato[/127.235.240.228:58269] logged in with entity id 2948 at (628.1395039170519, 130.9375, 176.21726409586486)
-[00:21:22] [Server thread/INFO]: potato joined the game
-[00:22:49] [Server thread/INFO]: [Not Secure] <potato> 70 65 20
-[00:23:51] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=28, y=31, z=-28} jd{x=28, y=31, z=-29}
-[00:23:51] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=28, y=31, z=-28} jd{x=28, y=31, z=-29}
-[00:23:51] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=28, y=31, z=-28} jd{x=28, y=31, z=-29}
-[00:23:53] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=28, y=29, z=-30} jd{x=28, y=29, z=-31}
-[00:23:53] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=28, y=29, z=-30} jd{x=28, y=29, z=-31}
-[00:23:53] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=28, y=29, z=-30} jd{x=28, y=29, z=-31}
-[00:24:49] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=30, y=16, z=-49} jd{x=29, y=16, z=-70}
-[00:24:49] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=30, y=16, z=-49} jd{x=29, y=16, z=-69}
-[00:25:58] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=15, y=15, z=-44} jd{x=20, y=16, z=-45}
-[00:25:58] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=15, y=15, z=-44} jd{x=20, y=16, z=-45}
-[00:25:58] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=15, y=15, z=-44} jd{x=20, y=16, z=-45}
-[00:25:58] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=15, y=15, z=-44} jd{x=20, y=16, z=-45}
-[00:25:58] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=15, y=15, z=-44} jd{x=20, y=16, z=-45}
-[00:25:58] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=15, y=15, z=-44} jd{x=20, y=16, z=-45}
-[00:25:58] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=15, y=15, z=-44} jd{x=20, y=16, z=-45}
-[00:25:58] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=15, y=15, z=-44} jd{x=20, y=16, z=-45}
-[00:25:58] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=15, y=15, z=-44} jd{x=20, y=16, z=-45}
-[00:25:58] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=15, y=15, z=-44} jd{x=20, y=16, z=-45}
-[00:25:58] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=15, y=15, z=-44} jd{x=20, y=16, z=-45}
-[00:28:23] [Server thread/INFO]: potato has made the advancement [Hidden in the Depths]
-[00:34:04] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=29, y=16, z=56} jd{x=26, y=16, z=55}
-[00:40:35] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=35, y=15, z=26} jd{x=34, y=14, z=26}
-[00:40:35] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=35, y=15, z=26} jd{x=34, y=14, z=26}
-[00:40:35] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=35, y=15, z=26} jd{x=34, y=14, z=26}
-[00:40:35] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=35, y=15, z=26} jd{x=34, y=14, z=26}
-[00:40:35] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=35, y=15, z=26} jd{x=34, y=14, z=26}
-[00:40:35] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=35, y=15, z=26} jd{x=34, y=14, z=26}
-[00:40:35] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=35, y=15, z=26} jd{x=34, y=14, z=26}
-[00:40:35] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=35, y=15, z=26} jd{x=34, y=14, z=26}
-[00:41:42] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=42, y=15, z=17} jd{x=42, y=16, z=17}
-[00:41:42] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=42, y=15, z=17} jd{x=42, y=16, z=17}
-[00:41:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=42, y=15, z=17} jd{x=42, y=16, z=17}
-[00:41:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=42, y=15, z=17} jd{x=42, y=16, z=17}
-[00:41:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=42, y=15, z=17} jd{x=42, y=16, z=17}
-[00:41:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=42, y=15, z=17} jd{x=42, y=16, z=17}
-[00:41:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=42, y=15, z=17} jd{x=42, y=16, z=17}
-[00:41:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=42, y=15, z=17} jd{x=42, y=16, z=17}
-[00:41:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=42, y=15, z=17} jd{x=42, y=16, z=17}
-[00:41:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=42, y=15, z=17} jd{x=42, y=16, z=17}
-[00:41:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=42, y=15, z=17} jd{x=42, y=16, z=17}
-[00:41:43] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=42, y=15, z=17} jd{x=42, y=16, z=17}
-[00:51:15] [Server thread/INFO]: Shaluxe[/127.248.43.211:59761] logged in with entity id 20757 at (210.51311781649707, 61.0, 2526.836552053264)
-[00:51:15] [Server thread/INFO]: Shaluxe joined the game
-[00:51:21] [Server thread/INFO]: [Not Secure] <Shaluxe> Oh...
-[00:51:23] [Server thread/INFO]: [Not Secure] <Shaluxe> Sigo en el end
-[00:51:24] [Server thread/INFO]: [Not Secure] <Shaluxe> ......
-[00:51:24] [Server thread/INFO]: [Not Secure] <potato> ola hermoso
-[00:51:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-1, y=44, z=14} jd{x=28, y=66, z=27}
-[00:51:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-1, y=44, z=14} jd{x=28, y=66, z=27}
-[00:51:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-1, y=44, z=14} jd{x=28, y=66, z=27}
-[00:51:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-1, y=44, z=14} jd{x=28, y=66, z=27}
-[00:51:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-1, y=44, z=14} jd{x=28, y=66, z=27}
-[00:51:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-1, y=44, z=14} jd{x=28, y=66, z=27}
-[00:51:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-1, y=44, z=14} jd{x=28, y=66, z=27}
-[00:51:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-1, y=44, z=14} jd{x=28, y=66, z=27}
-[00:51:28] [Server thread/INFO]: [Not Secure] <Shaluxe> discord
-[00:51:28] [Server thread/INFO]: [Not Secure] <Shaluxe> vamos
-[00:51:36] [Server thread/INFO]: [Not Secure] <potato> va
-[00:54:49] [Server thread/INFO]: zSappy[/127.36.21.240:52479] logged in with entity id 22194 at (643.8639621343974, 65.0, 255.22336274442563)
-[00:54:49] [Server thread/INFO]: zSappy joined the game
-[00:54:54] [Server thread/INFO]: [Not Secure] <potato> disc
-[00:54:56] [Server thread/INFO]: [Not Secure] <Shaluxe> salte
-[00:54:59] [Server thread/INFO]: [Not Secure] <potato> puta
-[00:56:48] [Server thread/INFO]: [Not Secure] <zSappy> y mi hacha?
-[00:56:58] [Server thread/INFO]: [Not Secure] <Shaluxe> cual
-[00:57:04] [Server thread/INFO]: [Not Secure] <potato> disc
-[00:57:09] [Server thread/INFO]: [Not Secure] <zSappy> se las preste al reyel y al diego
-[00:57:17] [Server thread/INFO]: [Not Secure] <zSappy> no puedo disc
-[00:57:24] [Server thread/INFO]: [Not Secure] <Shaluxe> yo la tengo w
-[00:57:35] [Server thread/INFO]: [Not Secure] <Shaluxe> estoy atrapado en el end
-[00:57:39] [Server thread/INFO]: [Not Secure] <zSappy> porque vergas la tienes tu
-[00:57:45] [Server thread/INFO]: [Not Secure] <Shaluxe> pq me la presto el reyel
-[00:57:49] [Server thread/INFO]: potato has completed the challenge [Hot Tourist Destinations]
-[00:57:49] [Server thread/INFO]: [Not Secure] <Shaluxe> para farmear
-[00:57:58] [Server thread/INFO]: [Not Secure] <zSappy> como si fuera su hacha no valen verga
-[00:58:04] [Server thread/INFO]: [Not Secure] <Shaluxe> pch mamon
-[00:58:06] [Server thread/INFO]: [Not Secure] <potato> callate we
-[00:58:07] [Server thread/INFO]: [Not Secure] <Shaluxe> hay aldeanos ahi
-[00:58:07] [Server thread/INFO]: [Not Secure] <zSappy> me consiguieron elytras?
-[00:58:13] [Server thread/INFO]: [Not Secure] <Shaluxe> no w
-[00:58:19] [Server thread/INFO]: [Not Secure] <Shaluxe> si encuentro ciudad, si
-[00:58:23] [Server thread/INFO]: [Not Secure] <Shaluxe> pq estoy atrapado en elnether XD
-[00:58:25] [Server thread/INFO]: [Not Secure] <Shaluxe> END*
-[00:58:50] [Server thread/INFO]: [Not Secure] <zSappy> quien vergas andaba entrando a mi casa
-[00:59:03] [Server thread/INFO]: [Not Secure] <zSappy> dejaron las puertas abiertas y adentro habia un creeper
-[00:59:07] [Server thread/INFO]: [Not Secure] <zSappy> se fueron alv
+[01:30:17] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:30:19] [ServerMain/INFO]: Loaded 1290 recipes
+[01:30:19] [ServerMain/INFO]: Loaded 1399 advancements
+[01:30:20] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[01:30:20] [Server thread/INFO]: Loading properties
+[01:30:20] [Server thread/INFO]: Default game type: SURVIVAL
+[01:30:20] [Server thread/INFO]: Generating keypair
+[01:30:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:30:20] [Server thread/INFO]: Using epoll channel type
+[01:30:20] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:30:20] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:30:20] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:30:20] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:30:20] [Server thread/INFO]: Preparing level "world"
+[01:30:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:30:23] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:30:23] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[01:30:24] [Server thread/INFO]: Time elapsed: 743 ms
+[01:30:24] [Server thread/INFO]: Done (3.607s)! For help, type "help"
+[01:30:30] [Server thread/INFO]: potato[/127.235.240.228:60411] logged in with entity id 8 at (176.216445424609, 15.0, 257.89788945842895)
+[01:30:30] [Server thread/INFO]: potato joined the game
+[01:30:41] [Server thread/INFO]: Shaluxe[/127.248.43.211:42039] logged in with entity id 938 at (-1532.4195081287785, 92.28250892858077, -859.1628211094892)
+[01:30:41] [Server thread/INFO]: Shaluxe joined the game
+[01:30:43] [Server thread/INFO]: zSappy[/127.36.21.240:56855] logged in with entity id 1045 at (651.4592537259672, 142.0, 165.90118578269056)
+[01:30:43] [Server thread/INFO]: zSappy joined the game
+[01:34:32] [Server thread/INFO]: potato has made the advancement [A Terrible Fortress]
+[01:38:24] [Server thread/WARN]: Shaluxe moved too quickly! 6.4854603807380045,-1.0,7.855078209068552
+[01:38:29] [Server thread/INFO]: potato has completed the challenge [Cover Me in Debris]
