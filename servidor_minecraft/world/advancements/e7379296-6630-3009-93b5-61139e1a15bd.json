@@ -1154,12 +1154,13 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-04-25 00:57:49 +0000",
       "minecraft:nether_wastes": "2025-04-23 06:42:26 +0000",
       "minecraft:soul_sand_valley": "2025-04-23 06:55:28 +0000",
       "minecraft:warped_forest": "2025-04-23 06:56:50 +0000",
       "minecraft:basalt_deltas": "2025-04-23 22:00:15 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
