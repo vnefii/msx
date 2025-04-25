@@ -206,3 +206,13 @@
 [06:05:06] [Server thread/INFO]: potato left the game
 [06:05:14] [Server thread/INFO]: potato[/127.235.240.228:56919] logged in with entity id 156228 at (628.3000000119209, 114.0, 452.83589533435463)
 [06:05:14] [Server thread/INFO]: potato joined the game
+[06:33:38] [Server thread/WARN]: potato moved too quickly! 18.39912360984158,-2.2691108123371038,-0.0649782755826891
+[06:35:52] [Server thread/INFO]: potato lost connection: Disconnected
+[06:35:52] [Server thread/INFO]: potato left the game
+[06:36:41] [Server thread/INFO]: potato[/127.235.240.228:50055] logged in with entity id 180008 at (169.27007243865992, 76.0, -1157.6906055746274)
+[06:36:41] [Server thread/INFO]: potato joined the game
+[06:41:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=665, y=132, z=169} jd{x=706, y=125, z=121}
+[06:41:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=665, y=132, z=169} jd{x=706, y=124, z=120}
+[06:41:37] [Server thread/WARN]: Shaluxe moved too quickly! -9.79326980580504,1.8476648131494358,1.3899289997971067
+[06:43:41] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=722, y=129, z=118} jd{x=726, y=123, z=139}
+[06:44:36] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=722, y=129, z=118} jd{x=721, y=125, z=137}
