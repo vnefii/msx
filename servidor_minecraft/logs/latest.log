@@ -30,3 +30,4 @@
 [00:25:58] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=15, y=15, z=-44} jd{x=20, y=16, z=-45}
 [00:25:58] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=15, y=15, z=-44} jd{x=20, y=16, z=-45}
 [00:28:23] [Server thread/INFO]: potato has made the advancement [Hidden in the Depths]
+[00:34:04] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=29, y=16, z=56} jd{x=26, y=16, z=55}
