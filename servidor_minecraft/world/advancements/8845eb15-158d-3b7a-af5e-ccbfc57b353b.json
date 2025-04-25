@@ -1158,13 +1158,16 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-04-25 04:22:52 +0000",
       "minecraft:skeleton": "2025-04-23 08:56:09 +0000",
+      "minecraft:vindicator": "2025-04-25 04:24:23 +0000",
       "minecraft:enderman": "2025-04-23 09:18:51 +0000",
       "minecraft:witch": "2025-04-23 08:33:09 +0000",
       "minecraft:spider": "2025-04-23 08:26:06 +0000",
       "minecraft:zombie": "2025-04-23 08:04:06 +0000",
       "minecraft:creeper": "2025-04-23 08:35:25 +0000",
       "minecraft:zombie_villager": "2025-04-23 08:27:50 +0000",
+      "minecraft:ravager": "2025-04-25 04:23:10 +0000",
       "minecraft:shulker": "2025-04-24 08:41:55 +0000"
     },
     "done": false
@@ -1853,6 +1856,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-04-25 04:23:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-04-25 04:15:52 +0000"
@@ -1862,6 +1871,12 @@
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-04-25 04:15:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-04-25 04:24:25 +0000"
     },
     "done": true
   },
