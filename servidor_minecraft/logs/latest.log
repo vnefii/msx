@@ -294,3 +294,19 @@
 [08:21:49] [Server thread/INFO]: potato[/127.235.240.228:49245] logged in with entity id 231781 at (629.6935704108333, 129.0, 132.86175385697345)
 [08:21:49] [Server thread/INFO]: potato joined the game
 [08:26:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=615, y=121, z=173} jd{x=721, y=136, z=111}
+[08:27:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=725, y=131, z=112} jd{x=721, y=125, z=116}
+[08:27:10] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=725, y=131, z=112} jd{x=726, y=125, z=117}
+[08:27:45] [Server thread/INFO]: Shaluxe lost connection: Timed out
+[08:27:45] [Server thread/INFO]: Shaluxe left the game
+[08:27:45] [Server thread/WARN]: handleDisconnection() called twice
+[08:28:30] [Server thread/INFO]: Shaluxe[/127.248.43.211:41017] logged in with entity id 233758 at (756.9672079286972, 125.0, 160.40484597519978)
+[08:28:30] [Server thread/INFO]: Shaluxe joined the game
+[08:30:46] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=744, y=125, z=111} jd{x=748, y=125, z=146}
+[08:34:14] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=771, y=127, z=145} jd{x=756, y=125, z=149}
+[08:34:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=771, y=127, z=145} jd{x=756, y=125, z=149}
+[08:34:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=771, y=127, z=145} jd{x=756, y=125, z=149}
+[08:34:29] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=769, y=124, z=148} jd{x=770, y=125, z=148}
+[08:35:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=746, y=125, z=119} jd{x=746, y=126, z=118}
+[08:36:22] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=746, y=125, z=119} jd{x=747, y=128, z=142}
+[08:36:22] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=746, y=125, z=119} jd{x=747, y=128, z=142}
+[08:36:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=746, y=125, z=119} jd{x=744, y=129, z=141}
